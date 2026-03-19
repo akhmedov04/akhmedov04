@@ -6,8 +6,8 @@
 
 <br/>
 
-[![Telegram](https://img.shields.io/badge/-%40maybe__akhmedov-00ff87?style=for-the-badge&logo=telegram&logoColor=black)](https://t.me/maybe_akhmedov)
-[![Instagram](https://img.shields.io/badge/-%40maybe__akhmedov-60efff?style=for-the-badge&logo=instagram&logoColor=black)](https://www.instagram.com/maybe_akhmedov)
+[![Telegram](https://img.shields.io/badge/-Telegram-00ff87?style=for-the-badge&logo=telegram&logoColor=black)](https://t.me/maybe_akhmedov)
+[![Instagram](https://img.shields.io/badge/-Instagram-60efff?style=for-the-badge&logo=instagram&logoColor=black)](https://www.instagram.com/maybe_akhmedov)
 
 </div>
 
