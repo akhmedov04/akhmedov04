@@ -1,125 +1,102 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=120&section=header&text=Bahodir%20Akhmedov&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=50&desc=&descAlignY=75)
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=17&duration=3000&pause=2000&color=a78bfa&center=true&vCenter=true&random=false&width=480&height=35&lines=Backend+Developer+%C2%B7+DevOps+%C2%B7+Uzbekistan+%F0%9F%87%BA%F0%9F%87%BF" alt="Typing SVG" />
+![Header](https://capsule-render.vercel.app/api?type=shark&color=0:0d0221,25:0d0221,50:ff2a6d,75:05d9e8,100:0d0221&height=200&section=header&text=BAHODIR%20AKHMEDOV&fontSize=45&fontColor=05d9e8&animation=fadeIn&fontAlignY=45&stroke=ff2a6d&strokeWidth=2&desc=%E3%80%8C%20BACKEND%20DEVELOPER%20%E3%80%8D&descSize=15&descColor=ff2a6d&descAlignY=68)
 
 <br/>
 
-<a href="https://t.me/maybe_akhmedov"><img src="https://img.shields.io/badge/Telegram-a78bfa?style=flat-square&logo=telegram&logoColor=0d1117" /></a>&nbsp;
-<a href="https://www.instagram.com/maybe_akhmedov"><img src="https://img.shields.io/badge/Instagram-7dd3fc?style=flat-square&logo=instagram&logoColor=0d1117" /></a>&nbsp;
-<img src="https://komarev.com/ghpvc/?username=akhmedov04&style=flat-square&color=c4b5fd&labelColor=1e1b4b&label=visitors" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&duration=2000&pause=1000&color=05D9E8&center=true&vCenter=true&random=false&width=600&height=50&lines=%E2%96%88%E2%96%93%E2%96%92%E2%96%91+SYSTEM+ONLINE+%E2%96%91%E2%96%92%E2%96%93%E2%96%88;%3E_+Initializing+backend+modules...;%3E_+Loading+devops+toolkit...;%3E_+Status%3A+Ready+to+deploy+%E2%9C%93" alt="Typing SVG" />
+
+<br/>
+
+[![Telegram](https://img.shields.io/badge/⟐-TELEGRAM-ff2a6d?style=flat-square&labelColor=0d0221)](https://t.me/maybe_akhmedov)&nbsp;
+[![Instagram](https://img.shields.io/badge/⟐-INSTAGRAM-05d9e8?style=flat-square&labelColor=0d0221)](https://www.instagram.com/maybe_akhmedov)&nbsp;
+![Views](https://komarev.com/ghpvc/?username=akhmedov04&style=flat-square&color=ff2a6d&labelColor=0d0221&label=SCANS)
 
 </div>
 
-<br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ═══════════════════ ABOUT ═══════════════════ -->
-
-<table align="center" border="0" cellpadding="0" cellspacing="0">
-<tr>
-<td>
-
-### &nbsp;🪟&nbsp; About
-
-```yaml
-name: Bahodir Akhmedov
-based_in: Uzbekistan
-role: Backend Developer & DevOps
-
-currently:
-  building: Scalable backend APIs
-  learning: Cloud architecture & system design
-  exploring: New tools & automation patterns
-
-philosophy: >
-  Good code is like a good joke —
-  it doesn't need an explanation.
+```
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║   ROLE     → Backend Developer & DevOps Engineer                 ║
+║   LOCATION → Uzbekistan 🇺🇿                                       ║
+║   STATUS   → Online & Building                                   ║
+║   MOTTO    → "Automate. Optimize. Deploy. Repeat."               ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
 ```
 
-</td>
-</tr>
-</table>
-
-<br/>
-
-<!-- ═══════════════════ STACK ═══════════════════ -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <div align="center">
 
-### 🪟&nbsp; Tech Stack
+### ⟐ TECH_ARSENAL ⟐
 
 <br/>
 
-<table border="0" cellpadding="12" cellspacing="0">
-<tr>
-<td align="center">
-<img src="https://img.shields.io/badge/-Python-1e1b4b?style=for-the-badge&logo=python&logoColor=a78bfa" /><br/>
-<img src="https://img.shields.io/badge/-Django-1e1b4b?style=for-the-badge&logo=django&logoColor=a78bfa" /><br/>
-<img src="https://img.shields.io/badge/-FastAPI-1e1b4b?style=for-the-badge&logo=fastapi&logoColor=a78bfa" /><br/>
-<img src="https://img.shields.io/badge/-Node.js-1e1b4b?style=for-the-badge&logo=nodedotjs&logoColor=a78bfa" /><br/>
-<img src="https://img.shields.io/badge/-Express-1e1b4b?style=for-the-badge&logo=express&logoColor=a78bfa" /><br/>
-<sub><b>Backend</b></sub>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/-PostgreSQL-1a1a2e?style=for-the-badge&logo=postgresql&logoColor=7dd3fc" /><br/>
-<img src="https://img.shields.io/badge/-MongoDB-1a1a2e?style=for-the-badge&logo=mongodb&logoColor=7dd3fc" /><br/>
-<img src="https://img.shields.io/badge/-Redis-1a1a2e?style=for-the-badge&logo=redis&logoColor=7dd3fc" /><br/>
+![Python](https://img.shields.io/badge/PYTHON-ff2a6d?style=for-the-badge&logo=python&logoColor=0d0221)
+![Django](https://img.shields.io/badge/DJANGO-ff2a6d?style=for-the-badge&logo=django&logoColor=0d0221)
+![FastAPI](https://img.shields.io/badge/FASTAPI-ff2a6d?style=for-the-badge&logo=fastapi&logoColor=0d0221)
+![Node.js](https://img.shields.io/badge/NODE.JS-ff2a6d?style=for-the-badge&logo=nodedotjs&logoColor=0d0221)
+![Express](https://img.shields.io/badge/EXPRESS-ff2a6d?style=for-the-badge&logo=express&logoColor=0d0221)
+
+![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-05d9e8?style=for-the-badge&logo=postgresql&logoColor=0d0221)
+![MongoDB](https://img.shields.io/badge/MONGODB-05d9e8?style=for-the-badge&logo=mongodb&logoColor=0d0221)
+![Redis](https://img.shields.io/badge/REDIS-05d9e8?style=for-the-badge&logo=redis&logoColor=0d0221)
+
+![Docker](https://img.shields.io/badge/DOCKER-d300c5?style=for-the-badge&logo=docker&logoColor=0d0221)
+![AWS](https://img.shields.io/badge/AWS-d300c5?style=for-the-badge&logo=amazonaws&logoColor=0d0221)
+![Linux](https://img.shields.io/badge/LINUX-d300c5?style=for-the-badge&logo=linux&logoColor=0d0221)
+![Nginx](https://img.shields.io/badge/NGINX-d300c5?style=for-the-badge&logo=nginx&logoColor=0d0221)
+![Git](https://img.shields.io/badge/GIT-d300c5?style=for-the-badge&logo=git&logoColor=0d0221)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<div align="center">
+
+### ⟐ SYSTEM_METRICS ⟐
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=akhmedov04&show_icons=true&hide_border=true&bg_color=0d0221&title_color=ff2a6d&icon_color=05d9e8&text_color=05d9e8&count_private=true&ring_color=ff2a6d" height="175" />&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=akhmedov04&hide_border=true&background=0d0221&ring=ff2a6d&fire=05d9e8&currStreakLabel=ff2a6d&sideLabels=05d9e8&currStreakNum=05d9e8&sideNums=ff2a6d&dates=d300c5" height="175" />
+
 <br/><br/>
-<sub><b>Database</b></sub>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/-Docker-16132b?style=for-the-badge&logo=docker&logoColor=c4b5fd" /><br/>
-<img src="https://img.shields.io/badge/-AWS-16132b?style=for-the-badge&logo=amazonaws&logoColor=c4b5fd" /><br/>
-<img src="https://img.shields.io/badge/-Linux-16132b?style=for-the-badge&logo=linux&logoColor=c4b5fd" /><br/>
-<img src="https://img.shields.io/badge/-Nginx-16132b?style=for-the-badge&logo=nginx&logoColor=c4b5fd" /><br/>
-<img src="https://img.shields.io/badge/-Git-16132b?style=for-the-badge&logo=git&logoColor=c4b5fd" /><br/>
-<sub><b>DevOps</b></sub>
-</td>
-</tr>
-</table>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=akhmedov04&hide_border=true&bg_color=0d0221&color=ff2a6d&line=05d9e8&point=ff2a6d&area=true&area_color=d300c515" width="90%" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=akhmedov04&theme=radical&no-frame=true&no-bg=true&column=6&margin-w=10" width="80%" />
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<div align="center">
+
+```
+┌──────────────────────────────────────┐
+│  CONNECTION REQUEST                  │
+│                                      │
+│  Got a project? Need a developer?    │
+│  Let's jack in and build together.   │
+│                                      │
+│  [■] ACCEPT    [ ] DECLINE           │
+└──────────────────────────────────────┘
+```
+
+<a href="https://t.me/maybe_akhmedov"><img src="https://img.shields.io/badge/⟐_CONNECT_NOW-ff2a6d?style=for-the-badge&labelColor=0d0221" /></a>
+
+<br/><br/>
+
+<sub>「 THE FUTURE IS NOW 」</sub>
 
 </div>
 
 <br/>
 
-<!-- ═══════════════════ STATS ═══════════════════ -->
-
-<div align="center">
-
-### 🪟&nbsp; Analytics
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=akhmedov04&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7dd3fc&text_color=c9d1d9&count_private=true&ring_color=a78bfa" height="170" />&nbsp;&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=akhmedov04&hide_border=true&background=0d1117&ring=a78bfa&fire=7dd3fc&currStreakLabel=c4b5fd&sideLabels=c9d1d9&currStreakNum=7dd3fc&sideNums=c9d1d9&dates=6e7681" height="170" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=akhmedov04&hide_border=true&bg_color=0d1117&color=a78bfa&line=7dd3fc&point=c4b5fd&area=true&area_color=a78bfa15" width="90%" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=akhmedov04&theme=discord&no-frame=true&no-bg=true&column=6&margin-w=10" width="75%" />
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════ FOOTER ═══════════════════ -->
-
-<div align="center">
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=1e1b4b&height=40&section=footer&text=Let's%20build%20something%20great%20together%20→&fontSize=14&fontColor=a78bfa&fontAlignY=55" width="50%" />
-
-<br/>
-
-<a href="https://t.me/maybe_akhmedov"><img src="https://img.shields.io/badge/-Say%20Hello-a78bfa?style=for-the-badge&logo=telegram&logoColor=0d1117" /></a>
-
-<br/><br/>
-
-<sub>✦ Made with purpose ✦</sub>
-
-</div>
+![Footer](https://capsule-render.vercel.app/api?type=shark&color=0:0d0221,25:05d9e8,50:ff2a6d,75:d300c5,100:0d0221&height=80&section=footer)
