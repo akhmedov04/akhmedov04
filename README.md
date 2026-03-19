@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=shark&color=0:0d0221,25:0d0221,50:ff2a6d,75:05d9e8,100:0d0221&height=200&section=header&text=BAHODIR%20AKHMEDOV&fontSize=45&fontColor=05d9e8&animation=fadeIn&fontAlignY=45&stroke=ff2a6d&strokeWidth=2&desc=%E3%80%8C%20BACKEND%20DEVELOPER%20%E3%80%8D&descSize=15&descColor=ff2a6d&descAlignY=68)
+![Header](https://capsule-render.vercel.app/api?type=shark&color=0:0d0221,25:0d0221,50:ff2a6d,75:05d9e8,100:0d0221&height=200&section=header&text=BAHODIR%20AKHMEDOV&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=%E3%80%8C%20BACKEND%20DEVELOPER%20%E3%80%8D&descSize=15&descColor=05d9e8&descAlignY=68)
 
 <br/>
 
@@ -67,10 +67,6 @@
 <br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=akhmedov04&hide_border=true&bg_color=0d0221&color=ff2a6d&line=05d9e8&point=ff2a6d&area=true&area_color=d300c515" width="90%" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=akhmedov04&theme=radical&no-frame=true&no-bg=true&column=6&margin-w=10" width="80%" />
 
 </div>
 
