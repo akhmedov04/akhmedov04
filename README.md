@@ -1,88 +1,70 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=venom&color=0:00ff87,100:60efff&height=200&section=header&text=Bahodir%20Akhmedov&fontSize=50&fontColor=ffffff&animation=twinkling&stroke=00ff87)
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=3000&pause=1000&color=00FF87&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=500&height=70&lines=%24+whoami;Backend+Developer+%7C+DevOps+%7C+Uzbekistan+%F0%9F%87%BA%F0%9F%87%BF" alt="Typing SVG" /></a>
+![Header](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=150&section=header&text=Bahodir%20Akhmedov&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=50&desc=Backend%20Developer%20%7C%20DevOps%20Engineer&descSize=16&descColor=ffffffaa&descAlignY=75)
 
 <br/>
 
-[![Telegram](https://img.shields.io/badge/-Telegram-00ff87?style=for-the-badge&logo=telegram&logoColor=black)](https://t.me/maybe_akhmedov)
-[![Instagram](https://img.shields.io/badge/-Instagram-60efff?style=for-the-badge&logo=instagram&logoColor=black)](https://www.instagram.com/maybe_akhmedov)
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=16&duration=4000&pause=2000&color=8b949e&center=true&vCenter=true&random=false&width=400&height=30&lines=Building+scalable+backend+systems;Automating+infrastructure+%26+deployments;Writing+clean%2C+maintainable+code" alt="Typing SVG" />
+
+<br/>
+
+<a href="https://t.me/maybe_akhmedov"><img src="https://img.shields.io/badge/-Telegram-1a1b27?style=flat&logo=telegram&logoColor=8b949e" /></a>
+<a href="https://www.instagram.com/maybe_akhmedov"><img src="https://img.shields.io/badge/-Instagram-1a1b27?style=flat&logo=instagram&logoColor=8b949e" /></a>
+<img src="https://komarev.com/ghpvc/?username=akhmedov04&style=flat&color=1a1b27&label=visitors&labelColor=1a1b27" />
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<br/>
 
-## `> cat about_me.json`
+## About
 
-```json
-{
-  "name": "Bahodir Akhmedov",
-  "location": "Uzbekistan 🇺🇿",
-  "role": "Backend Developer",
-  "education": "Computer Engineering",
-  "daily_routine": ["code", "debug", "deploy", "repeat"],
-  "fun_fact": "I automate things so I can be lazy efficiently"
-}
-```
+Backend developer based in Uzbekistan with a focus on building reliable, scalable systems. I work across the full backend stack — from API design to database optimization to deployment pipelines. I believe in clean architecture, automation, and writing code that other developers actually enjoy reading.
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<br/>
 
-## `> ls ~/skills/`
+## Tech Stack
 
 <div align="center">
 
-| 🖥️ Backend | 🗄️ Database | 🚀 DevOps |
-|:---:|:---:|:---:|
-| ![Python](https://img.shields.io/badge/Python-000?style=flat-square&logo=python&logoColor=00ff87) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=flat-square&logo=postgresql&logoColor=60efff) | ![Docker](https://img.shields.io/badge/Docker-000?style=flat-square&logo=docker&logoColor=60efff) |
-| ![Django](https://img.shields.io/badge/Django-000?style=flat-square&logo=django&logoColor=00ff87) | ![MongoDB](https://img.shields.io/badge/MongoDB-000?style=flat-square&logo=mongodb&logoColor=60efff) | ![AWS](https://img.shields.io/badge/AWS-000?style=flat-square&logo=amazonaws&logoColor=60efff) |
-| ![FastAPI](https://img.shields.io/badge/FastAPI-000?style=flat-square&logo=fastapi&logoColor=00ff87) | ![Redis](https://img.shields.io/badge/Redis-000?style=flat-square&logo=redis&logoColor=60efff) | ![Linux](https://img.shields.io/badge/Linux-000?style=flat-square&logo=linux&logoColor=60efff) |
-| ![Node.js](https://img.shields.io/badge/Node.js-000?style=flat-square&logo=nodedotjs&logoColor=00ff87) | | ![Nginx](https://img.shields.io/badge/Nginx-000?style=flat-square&logo=nginx&logoColor=60efff) |
-| ![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=00ff87) | | ![Git](https://img.shields.io/badge/Git-000?style=flat-square&logo=git&logoColor=60efff) |
+<img src="https://skillicons.dev/icons?i=python,django,fastapi,nodejs,express&theme=dark" />
+<br/>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,docker,aws&theme=dark" />
+<br/>
+<img src="https://skillicons.dev/icons?i=linux,nginx,git,github,vscode&theme=dark" />
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<br/>
 
-## `> neofetch --stats`
+## GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=akhmedov04&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff87&icon_color=60efff&text_color=c9d1d9&count_private=true&ring_color=00ff87" height="180" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=akhmedov04&hide_border=true&background=0d1117&ring=00ff87&fire=60efff&currStreakLabel=00ff87&sideLabels=c9d1d9&currStreakNum=60efff&sideNums=c9d1d9&dates=6e7681&stroke=00ff87" height="180" />
+<img src="https://github-readme-stats.vercel.app/api?username=akhmedov04&show_icons=true&hide_border=true&bg_color=0d1117&title_color=e6edf3&icon_color=8b949e&text_color=8b949e&count_private=true&hide=contribs" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=akhmedov04&hide_border=true&background=0d1117&ring=e6edf3&fire=e6edf3&currStreakLabel=e6edf3&sideLabels=8b949e&currStreakNum=8b949e&sideNums=8b949e&dates=6e7681" height="165" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=akhmedov04&hide_border=true&bg_color=0d1117&color=00ff87&line=60efff&point=00ff87&area=true&area_color=00ff8720" width="90%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=akhmedov04&hide_border=true&bg_color=0d1117&color=8b949e&line=e6edf3&point=e6edf3&area=true&area_color=e6edf320" width="90%" />
 
 </div>
+
+<br/>
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=akhmedov04&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=5" width="90%" />
+<img src="https://github-profile-trophy.vercel.app/?username=akhmedov04&theme=onestar&no-frame=true&no-bg=true&column=6&margin-w=10" width="80%" />
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<br/>
+
+---
 
 <div align="center">
-
-### 🐍 Watch my contributions get eaten
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akhmedov04/akhmedov04/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akhmedov04/akhmedov04/output/github-snake.svg" />
-  <img alt="snake eating contributions" src="https://raw.githubusercontent.com/akhmedov04/akhmedov04/output/github-snake.svg" />
-</picture>
-
+<sub>Open to collaboration on interesting backend and infrastructure projects.</sub>
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<div align="center">
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:00ff87,100:60efff&height=120&section=footer)
-
-</div>
+![Footer](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=2&section=footer)
